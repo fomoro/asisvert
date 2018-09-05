@@ -2,7 +2,8 @@
 <div class="slider-inner">
     <div id="da-slider" class="da-slider">
         <div class="da-slide">
-            <h2><i>Trabajamos con </i> <br /> <i>Ascensores de</i> <br /> <i>Todo Tipo</i></h2>            
+            <h2><i>Trabajamos con </i> <br /> <i>Ascensores de</i> <br /> <i>Todo Tipo</i></h2>   
+            <p><i>Brindando las mejores soluciones</i> <br /> <i>para edificaciones y el hogar</i></p>         
             <div class="da-img"><img class="img-responsive" src="Vistas/assets/plugins/parallax-slider/img/2.png" alt=""></div>
         </div>
         <div class="da-slide">
@@ -12,8 +13,8 @@
             </div>
         </div>
         <div class="da-slide">
-            <h2><i>Montacargas y</i> <br /> <i>Accesibilidad Universal</i></h2>            
-            <div class="da-img"><img src="assets/plugins/parallax-slider/img/html5andcss3.png" alt="image01" /></div>
+            <h2><i>Certifique Su</i> <br /> <i>Equipo Con Norma</i><br /> <i>NTC 5926-1, 5926-2 y 5926-3</i></h2>            
+            <div class="da-img"><img src="Vistas/assets/plugins/parallax-slider/img/5.png" alt="image01" /></div>
         </div>
         <div class="da-arrows">
             <span class="da-arrows-prev"></span>
@@ -28,13 +29,13 @@
 <div class="purchase">
     <div class="container overflow-h">
         <div class="row">
-            <div class="col-md-9 animated fadeInLeft">
-                <span>Unify is a clean and fully responsive incredible Template.</span>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi vehicula sem ut volutpat. Ut non libero magna fusce condimentum eleifend
-                    enim a feugiat corrupti quos.</p>
-            </div>
+            <div class="col-md-9 text-center animated fadeInLeft">
+                <span>Encuentre una Solución efectiva y dentro de su presupuesto</span>
+                <p>En Asisvert nos encargamos de dar soluciones a las necesidades concretas de nuestros clientes, ofreciendo
+                    diversas posibilidades para la consecución de sus proyectos.</p>
+            </div>       
             <div class="col-md-3 btn-buy animated fadeInRight">
-                <a href="#" class="btn-u btn-u-lg"><i class="fa fa-cloud-download"></i> Download Now</a>
+                <a href="#" class="btn-u btn-u-lg"><i class="fa fa-cloud-download"></i> Ver Servicios</a>
             </div>
         </div>
     </div>
@@ -42,156 +43,120 @@
 <!--/row-->
 <!-- End Purchase Block -->
 
-<!--=== Content Part ===-->
+<!-- About Info -->
 <div class="container content-sm">
-    <!-- Service Blocks -->
-    <div class="row margin-bottom-30">
-        <div class="col-md-4">
-            <div class="service">
-                <i class="fa fa-compress service-icon"></i>
-                <div class="desc">
-                    <h4>Fully Responsive</h4>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus etiam sem...</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="service">
-                <i class="fa fa-cogs service-icon"></i>
-                <div class="desc">
-                    <h4>HTML5 + CSS3</h4>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus etiam sem...</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="service">
-                <i class="fa fa-rocket service-icon"></i>
-                <div class="desc">
-                    <h4>Launch Ready</h4>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus etiam sem...</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Service Blokcs -->
-
-    <!-- Recent Works -->
-    <div class="headline">
-        <h2>Recent Works</h2>
-    </div>
-    <div class="row margin-bottom-20">
-        <div class="col-md-3 col-sm-6">
-            <div class="thumbnails thumbnail-style thumbnail-kenburn">
-                <div class="thumbnail-img">
-                    <div class="overflow-hidden">
-                        <img class="img-responsive" src="assets/img/main/img1.jpg" alt="">
-                    </div>
-                    <a class="btn-more hover-effect" href="#">read more +</a>
-                </div>
-                <div class="caption">
-                    <h3><a class="hover-effect" href="#">Project One</a></h3>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="thumbnails thumbnail-style thumbnail-kenburn">
-                <div class="thumbnail-img">
-                    <div class="overflow-hidden">
-                        <img class="img-responsive" src="assets/img/main/img12.jpg" alt="">
-                    </div>
-                    <a class="btn-more hover-effect" href="#">read more +</a>
-                </div>
-                <div class="caption">
-                    <h3><a class="hover-effect" href="#">Project Two</a></h3>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="thumbnails thumbnail-style thumbnail-kenburn">
-                <div class="thumbnail-img">
-                    <div class="overflow-hidden">
-                        <img class="img-responsive" src="assets/img/main/img3.jpg" alt="">
-                    </div>
-                    <a class="btn-more hover-effect" href="#">read more +</a>
-                </div>
-                <div class="caption">
-                    <h3><a class="hover-effect" href="#">Project Three</a></h3>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <div class="thumbnails thumbnail-style thumbnail-kenburn">
-                <div class="thumbnail-img">
-                    <div class="overflow-hidden">
-                        <img class="img-responsive" src="assets/img/main/img17.jpg" alt="">
-                    </div>
-                    <a class="btn-more hover-effect" href="#">read more +</a>
-                </div>
-                <div class="caption">
-                    <h3><a class="hover-effect" href="#">Project Four</a></h3>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Recent Works -->
-
-    <!-- Info Blokcs -->
-    <div class="row margin-bottom-30">
-        <!-- Welcome Block -->
-        <div class="col-md-8 md-margin-bottom-40">
-            <div class="headline">
-                <h2>Welcome To Unify</h2>
-            </div>
+    <div class="row">
+        <div class="col-md-8">
+            <h2 class="title-v2 title-center">RAZONES PARA ELEGIRNOS</h2>
+            <h5>¡Nos sentimos parte de su empresa! Por eso es importante para Asisvert brindarle a su Compañia</h5>            
+            
             <div class="row">
-                <div class="col-sm-4">
-                    <img class="img-responsive margin-bottom-20" src="assets/img/main/img18.jpg" alt="">
+                <div class="col-sm-6">
+                    <h2 class="heading-sm">
+                        <i class="icon-custom icon-sm icon-bg-u fa fa-check"></i>
+                        <span>Seguridad y Garantía</span>
+                    </h2>                    
                 </div>
-                <div class="col-sm-8">
-                    <p>Unify is an incredibly beautiful responsive Bootstrap Template for corporate and creative professionals. It works on all major web browsers, tablets and phone.</p>
-                    <ul class="list-unstyled margin-bottom-20">
-                        <li><i class="fa fa-check color-green"></i> Donec id elit non mi porta gravida</li>
-                        <li><i class="fa fa-check color-green"></i> Corporate and Creative</li>
-                        <li><i class="fa fa-check color-green"></i> Responsive Bootstrap Template</li>
-                        <li><i class="fa fa-check color-green"></i> Corporate and Creative</li>
-                    </ul>
+                <div class="col-sm-6">
+                    <h2 class="heading-sm">
+                    <i class="icon-custom icon-sm icon-bg-u fa fa-check"></i>
+                        <span>Cumplimiento y Efectividad</span>
+                    </h2>                    
+                </div>                
+                <div class="col-sm-6">
+                    <h2 class="heading-sm">
+                    <i class="icon-custom icon-sm icon-bg-u fa fa-check"></i>
+                        <span>Transparencia y Confianza.</span>
+                    </h2>                    
                 </div>
+                <div class="col-sm-6">
+                    <h2 class="heading-sm">
+                    <i class="icon-custom icon-sm icon-bg-u fa fa-check"></i>
+                        <span>Un Servicio Ágil y Oportuno.</span>
+                    </h2>                    
+                </div>
+                <div class="col-sm-6">
+                    <h2 class="heading-sm">
+                    <i class="icon-custom icon-sm icon-bg-u fa fa-check"></i>
+                        <span>Técnicos Certificados.</span>
+                    </h2>                    
+                </div>
+                <div class="col-sm-6">
+                    <h2 class="heading-sm">
+                    <i class="icon-custom icon-sm icon-bg-u fa fa-check"></i>
+                        <span>Un Servicio 24 Horas.</span>
+                    </h2>                    
+                </div>
+                <div class="col-sm-6">
+                    <h2 class="heading-sm">
+                    <i class="icon-custom icon-sm icon-bg-u fa fa-check"></i>
+                        <span>Adaptabilidad al cambio.</span>
+                    </h2>                    
+                </div>
+                
             </div>
 
-            <blockquote class="hero-unify">
-                <p>Award winning digital agency. We bring a personal and effective approach to every project we work on, which is why. Unify is an incredibly beautiful responsive Bootstrap Template for corporate professionals.</p>
-                <small>CEO, Jack Bour</small>
-            </blockquote>
         </div>
-        <!--/col-md-8-->
 
         <!-- Latest Shots -->
         <div class="col-md-4">
             <div class="headline">
-                <h2>Latest Shots</h2>
+                <h2>Equipos Que Trabajamos</h2>
             </div>
             <div id="myCarousel" class="carousel slide carousel-v1">
-                <div class="carousel-inner">
+                <div class="carousel-inner">                    
                     <div class="item active">
-                        <img src="assets/img/main/img4.jpg" alt="">
+                        <img src="Vistas/assets/img/main/personas.jpg" alt="">
                         <div class="carousel-caption">
-                            <p>Facilisis odio, dapibus ac justo acilisis gestinas.</p>
+                            <p>Elevador de Pensonas</p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="assets/img/main/img2.jpg" alt="">
+                        <img src="Vistas/assets/img/main/montaplatos.jpg" alt="">
                         <div class="carousel-caption">
-                            <p>Cras justo odio, dapibus ac facilisis into egestas.</p>
+                            <p>Montaplatos</p>
+                        </div>
+                    </div> 
+                    <div class="item">
+                        <img src="Vistas/assets/img/main/escalera.jpg" alt="">
+                        <div class="carousel-caption">
+                            <p>Escaleras Electricas</p>
+                        </div>
+                    </div>                  
+                    <div class="item">
+                        <img src="Vistas/assets/img/main/montacoches.jpg" alt="">
+                        <div class="carousel-caption">
+                            <p>Montacoches</p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="assets/img/main/img24.jpg" alt="">
+                        <img src="Vistas/assets/img/main/discapacitados.jpg" alt="">
                         <div class="carousel-caption">
-                            <p>Justo cras odio apibus ac afilisis lingestas de.</p>
+                            <p>Discapacitados</p>
+                        </div>
+                    </div>                    
+                    <div class="item">
+                        <img src="Vistas/assets/img/main/rampla.jpg" alt="">
+                        <div class="carousel-caption">
+                            <p>Ramplas Electricas</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="Vistas/assets/img/main/montacargas.jpg" alt="">
+                        <div class="carousel-caption">
+                            <p>Montacargas</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="Vistas/assets/img/main/construccion.jpg" alt="">
+                        <div class="carousel-caption">
+                            <p>Construcion</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="Vistas/assets/img/main/duplicador.jpg" alt="">
+                        <div class="carousel-caption">
+                            <p>Duplicador de Parqueadero</p>
                         </div>
                     </div>
                 </div>
@@ -206,44 +171,64 @@
                 </div>
             </div>
         </div>
-        <!--/col-md-4-->
+        <!--/col-md-4-->        
+  
     </div>
-    <!-- End Info Blokcs -->
+</div>
+<!-- End About Info -->
 
-    <!-- Owl Clients v1 -->
-    <div class="headline">
-        <h2>Our Clients</h2>
-    </div>
-    <div class="owl-clients-v1">
-        <div class="item">
-            <img src="assets/img/clients4/1.png" alt="">
-        </div>
-        <div class="item">
-            <img src="assets/img/clients4/2.png" alt="">
-        </div>
-        <div class="item">
-            <img src="assets/img/clients4/3.png" alt="">
-        </div>
-        <div class="item">
-            <img src="assets/img/clients4/4.png" alt="">
-        </div>
-        <div class="item">
-            <img src="assets/img/clients4/5.png" alt="">
-        </div>
-        <div class="item">
-            <img src="assets/img/clients4/6.png" alt="">
-        </div>
-        <div class="item">
-            <img src="assets/img/clients4/7.png" alt="">
-        </div>
-        <div class="item">
-            <img src="assets/img/clients4/8.png" alt="">
-        </div>
-        <div class="item">
-            <img src="assets/img/clients4/9.png" alt="">
+<!--=== Parallax Quote ===-->
+<div class="parallax-quote parallaxBg">
+    <div class="container">
+        <div class="parallax-quote-in">
+            <p>Clientes en todo el territorio nacional <span class="color-green">avalan la calidad</span> de nuestros productos.</p>
+            <small>- Asisvert -</small>
         </div>
     </div>
-    <!-- End Owl Clients v1 -->
+</div>
+<!--=== End Parallax Quote ===-->
+
+<!-- Icon Boxes 26 -->
+<div class="container content-sm">
+    <div class="text-center margin-bottom-30">
+        <h2 class="title-v2 title-center">EN ASISVERT</h2>
+        <h4 class="space-lg-hor">
+            Trabajamos en la instalación, conservación y modernización de equipos de transporte vertical a 
+            través de nuestras unidades de negocios en el territorio nacional. Fortaleciendo nuestros 4 pilares
+        </h4>
+    </div>
+
+    <!-- Service Box -->
+    <div class="row text-center">
+        <div class="col-md-3 flat-service ">
+            <div class="service">
+                <img class="image-md margin-bottom-20" src="Vistas/assets/img/icons/flat/01.png" alt="">
+                <h1 class="title-v3-md margin-bottom-10">Experiencia</h1>
+                <p>Tenemos una trayectoría de más de 20 años en el mercado de mantenimiento y reparación.</p>
+            </div>
+        </div>
+        <div class="col-md-3 flat-service">
+            <div class="service">
+                <img class="image-md margin-bottom-20" src="Vistas/assets/img/icons/flat/02.png" alt="">
+                <h2 class="title-v3-md margin-bottom-10">Cobertura</h2>
+                <p>Nuestras soluciones están disponibles en toda Colombia y para el mercado latinoamericano.</p>
+            </div>
+        </div>
+        <div class="col-md-3 flat-service">
+            <div class="service">
+                <img class="image-md margin-bottom-20" src="Vistas/assets/img/icons/flat/03.png" alt="">
+                <h2 class="title-v3-md margin-bottom-10">Personal</h2>
+                <p>Nuestra experiencia la hacen nuestros ingenieros y técnicos de alto nivel profesional.</p>
+            </div>
+        </div>
+        <div class="col-md-3 flat-service">
+            <div class="service">
+                <img class="image-md margin-bottom-20" src="Vistas/assets/img/icons/flat/03.png" alt="">
+                <h2 class="title-v3-md margin-bottom-10">Reconocimiento</h2>
+                <p>Actualmente contamos con mas de 32 clientes satisfechos en el territorio nacional que nos respaldan.</p>
+            </div>
+        </div>
+    </div>
+    <!-- End Service Box -->       
 </div>
 <!--/container-->
-<!-- End Content Part -->
