@@ -181,8 +181,16 @@
 <div class="parallax-quote parallaxBg">
     <div class="container">
         <div class="parallax-quote-in">
-            <p>Clientes en todo el territorio nacional <span class="color-green">avalan la calidad</span> de nuestros productos.</p>
-            <small>- Asisvert -</small>
+            <p>
+                Realizamos la inspección con base a las normars <span class="color-green">NTC 5926-1, NTC 5926-2 y NTC 5926-3 </span> 
+                 de ascensores, escaleras eléctricas, puertas automáticas, 
+                 rampas eléctricas y andenes móviles.                  
+            </p>
+            <h3>
+                <a href="#" class="text-danger">
+                    <strong>Leer mas..</strong>
+                </a>
+            </h3>
         </div>
     </div>
 </div>

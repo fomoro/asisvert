@@ -29,7 +29,7 @@
                                 <span class="fa fa-bars"></span>
                             </button>
                 <a class="navbar-brand" href="index.html">
-                    <img id="logo-header" src="assets/img/logo3-dark.png" alt="Logo">
+                    <img id="logo-header" src="Vistas/assets/img/logo3-dark.png" alt="Logo">
                 </a>
             </div>
 
@@ -37,17 +37,24 @@
             <div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
                 <ul class="nav navbar-nav">
 
-                    <li><a href="Inicio">INICIO</a></li>
-                    <li><a href="Inicio">CONOCENOS</a></li>                                        
+                    <li><a href="inicio">INICIO</a></li>
+                    <li class="dropdown">
+                        <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+                                        CONOCENOS
+                                    </a>
+                        <ul class="dropdown-menu">                            
+                            <li><a href="nosotros">Quienes Somos</a></li>
+                            <li><a href="politicas">Politicas</a></li>
+                        </ul>
+                    </li>         
                     <li class="dropdown">
                         <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
                                         SERVICIOS
                                     </a>
                         <ul class="dropdown-menu">                            
-                            <li><a href="">MANTENIMIENTO</a></li>
-                            <li><a href="">REPARACIÓN</a></li>
-                            <li><a href="">NORMALIZACIÓN</a></li>
-                            <li><a href="">MODERNIZACIÓN</a></li>
+                            <li><a href="">Inspección y Auditoría</a></li>
+                            <li><a href="mantenimiento">Mantenimiento y Reparacion</a></li>
+                            <li><a href="">Modernizacion</a></li>                            
                         </ul>
                     </li>                         
                     <li><a href="Inicio">Conocenos</a></li>                    
