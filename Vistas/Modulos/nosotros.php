@@ -102,7 +102,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img-md.jpg" alt="" />
+                    <img class="img-responsive" src="Vistas/assets/img/team/img8-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>Monica Diaz</h3>                        
                         <small class="color-green">Marketing Director</small>
@@ -150,7 +150,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img-md.jpg" alt="" />
+                    <img class="img-responsive" src="Vistas/assets/img/team/img7-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>Diana Avila</h3>
                         <small class="color-green">Project Manager</small>
@@ -239,7 +239,7 @@
                 <div class="margin-bottom-20"></div>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="vistas/assets/img/mockup/1.png" alt="">
+                <img class="img-responsive" src="vistas/assets/img/mockup/diseno.jpg" alt="">
             </div>
         </div>
     </div>

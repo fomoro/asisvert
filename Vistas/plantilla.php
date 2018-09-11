@@ -69,10 +69,8 @@
         if($_GET["ruta"] == "inicio" ||
             $_GET["ruta"] == "nosotros" ||
             $_GET["ruta"] == "politicas" ||
-            $_GET["ruta"] == "mantenimiento" ||
-            $_GET["ruta"] == "modernizacion" ||
-            $_GET["ruta"] == "reparacion" ||
-            $_GET["ruta"] == "normalizacion"){
+            $_GET["ruta"] == "mantenimiento" ||            
+            $_GET["ruta"] == "conocenos"){
 
             include "modulos/".$_GET["ruta"].".php";
         }else{

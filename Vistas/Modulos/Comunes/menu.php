@@ -47,17 +47,8 @@
                             <li><a href="politicas">Politicas</a></li>
                         </ul>
                     </li>         
-                    <li class="dropdown">
-                        <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
-                                        SERVICIOS
-                                    </a>
-                        <ul class="dropdown-menu">                            
-                            <li><a href="">Inspección y Auditoría</a></li>
-                            <li><a href="mantenimiento">Mantenimiento y Reparacion</a></li>
-                            <li><a href="">Modernizacion</a></li>                            
-                        </ul>
-                    </li>                         
-                    <li><a href="Inicio">Conocenos</a></li>                    
+                    <li><a href="mantenimiento">SERVICIOS</a></li>                    
+                    <li><a href="conocenos">Conocenos</a></li>                    
                 </ul>
             </div>
             <!--/navbar-collapse-->
