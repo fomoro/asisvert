@@ -48,21 +48,24 @@
 	<link rel="stylesheet" href="Vistas/assets/css/theme-skins/dark.css">
 
 	<!-- CSS Customization -->
-	<link rel="stylesheet" href="Vistas/assets/css/custom.css">
+    <link rel="stylesheet" href="Vistas/assets/css/custom.css">
+    
+    <!-- JS Global Compulsory -->
+    <script type="text/javascript" src="Vistas/assets/plugins/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="Vistas/assets/plugins/jquery/jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="Vistas/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    
+    <!-- JS Implementing Plugins -->
+    <script type="text/javascript" src="Vistas/assets/plugins/back-to-top.js"></script>
+    <script type="text/javascript" src="Vistas/assets/plugins/smoothScroll.js"></script>               
+
 </head>
 
 <body>
     <div class="wrapper">
-        <!--=== Header ===-->
+        
         <?php 
-        	include "Modulos/Comunes/menu.php";
-        ?>
-        <!--=== End Header ===-->
-
-        <?php     
-        /*=============================================
-        CONTENIDO
-        =============================================*/
+        include "Modulos/Comunes/menu.php";
 
         if(isset($_GET["ruta"])){
 
@@ -78,24 +81,13 @@
         }
         }else{
             include "modulos/inicio.php";
-        }            
-        ?>
-
-
-        <!--=== Footer Version 1 ===-->
-        <?php 
+        }     
         	include "Modulos/Comunes/footer.php";
         ?>
-        <!--=== End Footer Version 1 ===-->
     </div>
-    <!--/wrapper-->
-    <!-- JS Global Compulsory -->
-    <script type="text/javascript" src="Vistas/assets/plugins/jquery/jquery.min.js"></script>
-    <script type="text/javascript" src="Vistas/assets/plugins/jquery/jquery-migrate.min.js"></script>
-    <script type="text/javascript" src="Vistas/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-    <!-- JS Implementing Plugins -->
-    <script type="text/javascript" src="Vistas/assets/plugins/back-to-top.js"></script>
-    <script type="text/javascript" src="Vistas/assets/plugins/smoothScroll.js"></script>
+
+
+
     <script type="text/javascript" src="Vistas/assets/plugins/jquery.parallax.js"></script>
     <script type="text/javascript" src="Vistas/assets/plugins/parallax-slider/js/modernizr.js"></script>
     <script type="text/javascript" src="Vistas/assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
@@ -104,14 +96,20 @@
 	<script type="text/javascript" src="Vistas/assets/plugins/counter/waypoints.min.js"></script>
 	<script type="text/javascript" src="Vistas/assets/plugins/counter/jquery.counterup.min.js"></script>
 	
-    <!-- JS Customization -->
-    <script type="text/javascript" src="Vistas/assets/js/custom.js"></script>
+
+    
     <!-- JS Page Level -->
     <script type="text/javascript" src="Vistas/assets/js/app.js"></script>
+    <script type="text/javascript" src="Vistas/assets/js/forms/contact.js"></script>
+    <script type="text/javascript" src="Vistas/assets/js/pages/page_contacts.js"></script>
     <script type="text/javascript" src="Vistas/assets/js/plugins/owl-carousel.js"></script>
     <script type="text/javascript" src="Vistas/assets/js/plugins/style-switcher.js"></script>
     <script type="text/javascript" src="Vistas/assets/js/plugins/parallax-slider.js"></script>
     <script type="text/javascript" src="Vistas/assets/js/plugins/cube-portfolio/cube-portfolio-lightbox.js"></script>    
+    
+    
+    <!-- JS Customization -->
+    <script type="text/javascript" src="Vistas/assets/js/custom.js"></script>
 
 </body>
 
