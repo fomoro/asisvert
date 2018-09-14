@@ -4,17 +4,17 @@
         <div class="da-slide">
             <h2><i>Trabajamos con </i> <br /> <i>Ascensores de</i> <br /> <i>Todo Tipo</i></h2>   
             <p><i>Brindando las mejores soluciones</i> <br /> <i>para edificaciones y el hogar</i></p>         
-            <div class="da-img"><img class="img-responsive" src="Vistas/assets/plugins/parallax-slider/img/2.png" alt=""></div>
+            <div class="da-img"><img class="img-responsive" src="vistas/assets/plugins/parallax-slider/img/2.png" alt=""></div>
         </div>
         <div class="da-slide">
             <h2><i>Expertos en </i> <br /> <i>Escaleras y </i> <br /> <i>Rampas mecánicas</i></h2>    
             <div class="da-img">
-                <img class="img-responsive" src="Vistas/assets/plugins/parallax-slider/img/3.png" alt="">
+                <img class="img-responsive" src="vistas/assets/plugins/parallax-slider/img/3.png" alt="">
             </div>
         </div>
         <div class="da-slide">
             <h2><i>Certifique Su</i> <br /> <i>Equipo Con Norma</i><br /> <i>NTC 5926-1, 5926-2 y 5926-3</i></h2>            
-            <div class="da-img"><img src="Vistas/assets/plugins/parallax-slider/img/5.png" alt="image01" /></div>
+            <div class="da-img"><img src="vistas/assets/plugins/parallax-slider/img/5.png" alt="image01" /></div>
         </div>
         <div class="da-arrows">
             <span class="da-arrows-prev"></span>
@@ -106,55 +106,55 @@
             <div id="myCarousel" class="carousel slide carousel-v1">
                 <div class="carousel-inner">                    
                     <div class="item active">
-                        <img src="Vistas/assets/img/main/personas.jpg" alt="">
+                        <img src="vistas/assets/img/main/personas.jpg" alt="">
                         <div class="carousel-caption">
                             <p>Elevador de Pensonas</p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="Vistas/assets/img/main/montaplatos.jpg" alt="">
+                        <img src="vistas/assets/img/main/montaplatos.jpg" alt="">
                         <div class="carousel-caption">
                             <p>Montaplatos</p>
                         </div>
                     </div> 
                     <div class="item">
-                        <img src="Vistas/assets/img/main/escalera.jpg" alt="">
+                        <img src="vistas/assets/img/main/escalera.jpg" alt="">
                         <div class="carousel-caption">
                             <p>Escaleras Electricas</p>
                         </div>
                     </div>                  
                     <div class="item">
-                        <img src="Vistas/assets/img/main/montacoches.jpg" alt="">
+                        <img src="vistas/assets/img/main/montacoches.jpg" alt="">
                         <div class="carousel-caption">
                             <p>Montacoches</p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="Vistas/assets/img/main/discapacitados.jpg" alt="">
+                        <img src="vistas/assets/img/main/discapacitados.jpg" alt="">
                         <div class="carousel-caption">
                             <p>Discapacitados</p>
                         </div>
                     </div>                    
                     <div class="item">
-                        <img src="Vistas/assets/img/main/rampla.jpg" alt="">
+                        <img src="vistas/assets/img/main/rampla.jpg" alt="">
                         <div class="carousel-caption">
                             <p>Ramplas Electricas</p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="Vistas/assets/img/main/montacargas.jpg" alt="">
+                        <img src="vistas/assets/img/main/montacargas.jpg" alt="">
                         <div class="carousel-caption">
                             <p>Montacargas</p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="Vistas/assets/img/main/construccion.jpg" alt="">
+                        <img src="vistas/assets/img/main/construccion.jpg" alt="">
                         <div class="carousel-caption">
                             <p>Construcion</p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="Vistas/assets/img/main/duplicador.jpg" alt="">
+                        <img src="vistas/assets/img/main/duplicador.jpg" alt="">
                         <div class="carousel-caption">
                             <p>Duplicador de Parqueadero</p>
                         </div>
@@ -209,28 +209,28 @@
     <div class="row text-center">
         <div class="col-md-3 flat-service ">
             <div class="service">
-                <img class="image-md margin-bottom-20" src="Vistas/assets/img/icons/flat/01.png" alt="">
+                <img class="image-md margin-bottom-20" src="vistas/assets/img/icons/flat/01.png" alt="">
                 <h1 class="title-v3-md margin-bottom-10">Experiencia</h1>
                 <p>Tenemos una trayectoría de más de 20 años en el mercado de mantenimiento y reparación.</p>
             </div>
         </div>
         <div class="col-md-3 flat-service">
             <div class="service">
-                <img class="image-md margin-bottom-20" src="Vistas/assets/img/icons/flat/02.png" alt="">
+                <img class="image-md margin-bottom-20" src="vistas/assets/img/icons/flat/02.png" alt="">
                 <h2 class="title-v3-md margin-bottom-10">Cobertura</h2>
                 <p>Nuestras soluciones están disponibles en toda Colombia y para el mercado latinoamericano.</p>
             </div>
         </div>
         <div class="col-md-3 flat-service">
             <div class="service">
-                <img class="image-md margin-bottom-20" src="Vistas/assets/img/icons/flat/03.png" alt="">
+                <img class="image-md margin-bottom-20" src="vistas/assets/img/icons/flat/03.png" alt="">
                 <h2 class="title-v3-md margin-bottom-10">Personal</h2>
                 <p>Nuestra experiencia la hacen nuestros ingenieros y técnicos de alto nivel profesional.</p>
             </div>
         </div>
         <div class="col-md-3 flat-service">
             <div class="service">
-                <img class="image-md margin-bottom-20" src="Vistas/assets/img/icons/flat/03.png" alt="">
+                <img class="image-md margin-bottom-20" src="vistas/assets/img/icons/flat/03.png" alt="">
                 <h2 class="title-v3-md margin-bottom-10">Reconocimiento</h2>
                 <p>Actualmente contamos con mas de 32 clientes satisfechos en el territorio nacional que nos respaldan.</p>
             </div>

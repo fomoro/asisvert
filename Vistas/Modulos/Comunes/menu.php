@@ -29,7 +29,7 @@
                                 <span class="fa fa-bars"></span>
                             </button>
                 <a class="navbar-brand" href="index.html">
-                    <img id="logo-header" src="Vistas/assets/img/logo3-dark.png" alt="Logo">
+                    <img id="logo-header" src="vistas/assets/img/logo3-dark.png" alt="Logo">
                 </a>
             </div>
 

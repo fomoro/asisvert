@@ -71,7 +71,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img1-md.jpg" alt="" />
+                    <img class="img-responsive" src="vistas/assets/img/team/img1-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>JONATHAN M.</h3>
                         <small class="color-green">CEO, Chief Officer</small>
@@ -86,7 +86,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img2-md.jpg" alt="" />
+                    <img class="img-responsive" src="vistas/assets/img/team/img2-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>Harvey Gomez</h3>
                         <small class="color-green">Consulting Director</small>
@@ -102,7 +102,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img8-md.jpg" alt="" />
+                    <img class="img-responsive" src="vistas/assets/img/team/img8-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>Monica Diaz</h3>                        
                         <small class="color-green">Marketing Director</small>
@@ -118,7 +118,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img6-md.jpg" alt="" />
+                    <img class="img-responsive" src="vistas/assets/img/team/img6-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>Jose Martinez</h3>
                         <small class="color-green">COO, Operation Director</small>
@@ -134,7 +134,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img-md.jpg" alt="" />
+                    <img class="img-responsive" src="vistas/assets/img/team/img-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>Camilo Ruiz</h3>
                         <small class="color-green">CFO, Finance Director</small>
@@ -150,7 +150,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img7-md.jpg" alt="" />
+                    <img class="img-responsive" src="vistas/assets/img/team/img7-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>Diana Avila</h3>
                         <small class="color-green">Project Manager</small>
@@ -166,7 +166,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img3-md.jpg" alt="" />
+                    <img class="img-responsive" src="vistas/assets/img/team/img3-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>Cristian Cardenas</h3>                        
                         <small class="color-green">Director, R &amp; D Talent</small>
@@ -182,7 +182,7 @@
             <!-- Team v2 -->
             <div class="col-md-3 col-sm-6">
                 <div class="team-v2">
-                    <img class="img-responsive" src="Vistas/assets/img/team/img5-md.jpg" alt="" />
+                    <img class="img-responsive" src="vistas/assets/img/team/img5-md.jpg" alt="" />
                     <div class="inner-team">
                         <h3>Javier Duarte</h3>
                         <small class="color-green">Technical Leader</small>

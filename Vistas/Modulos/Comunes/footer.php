@@ -6,7 +6,7 @@
                 <!-- About -->
                 <div class="col-md-4 md-margin-bottom-40">
                     <a href="index.html">
-                        <img id="logo-footer" class="footer-logo" src="Vistas/assets/img/logo2-default.png" alt="">
+                        <img id="logo-footer" class="footer-logo" src="vistas/assets/img/logo2-default.png" alt="">
                     </a>
                     <p>
                         About Unify dolor sit amet, consectetur adipiscing elit. Maecenas eget nisl id libero tincidunt sodales.

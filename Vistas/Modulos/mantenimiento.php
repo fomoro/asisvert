@@ -105,7 +105,7 @@
     <div class="row">
         <div class="col-sm-4 shadow-wrapper md-margin-bottom-40">
             <div class="box-shadow shadow-effect-2">
-                <img class="img-responsive img-bordered full-width" src="Vistas/assets/img/portfolio/1.png" alt="">
+                <img class="img-responsive img-bordered full-width" src="vistas/assets/img/portfolio/1.png" alt="">
             </div>
         </div>
 
@@ -206,7 +206,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <img class="img-responsive img-center" src="Vistas/assets/img/portfolio/camilo.jpg" width="300" alt="">
+                <img class="img-responsive img-center" src="vistas/assets/img/portfolio/camilo.jpg" width="300" alt="">
             </div>
         </div>
         <!--/end row-->
